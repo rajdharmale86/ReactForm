@@ -1,0 +1,36 @@
+
+  {
+    "questions": {
+      "Technology": [
+        {
+          "name": "technologyQuestion1",
+          "label": "What is your favorite programming language?",
+          "type": "text",
+          "placeholder": "Enter your answer"
+        },
+        {
+          "name": "technologyQuestion2",
+          "label": "How many years of experience do you have?",
+          "type": "text",
+          "placeholder": "Enter your answer"
+        }
+      ],
+      "Health": [
+        {
+          "name": "healthQuestion1",
+          "label": "How often do you exercise?",
+          "type": "text",
+          "placeholder": "Enter your answer"
+        }
+      ],
+      "Education": [
+        {
+          "name": "educationQuestion1",
+          "label": "What is your highest qualification?",
+          "type": "text",
+          "placeholder": "Enter your answer"
+        }
+      ]
+    }
+  }
+  
